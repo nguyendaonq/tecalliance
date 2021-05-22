@@ -1,2 +1,2 @@
 # tecalliance
-Solve challenge TecAlliance
+Problem-solving calculate overlap pipe-box in percent from TecAlliance.
